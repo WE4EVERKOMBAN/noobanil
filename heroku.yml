@@ -1,4 +1,4 @@
-build:
+build:bot.py
 
   docker:
 
