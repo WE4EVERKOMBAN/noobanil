@@ -5,4 +5,4 @@ bot_token = "5735199248:AAFwz99jVbqvaYOjwL4zDaRrv1XuhFRfbXk"
 admins = [895687774,1835479201]
 
 #MongoDb Url For Databse
-mongo_url = "mongodb+srv://Data1:Data1@cluster0.ekxpn.mongodb.net/?retryWrites=true&w=majority"
+mongo_url = "mongodb+srv://Suhail:suhail123@cluster0.jjayw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
